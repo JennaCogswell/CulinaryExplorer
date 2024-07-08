@@ -1,0 +1,18 @@
+.dropdown-heading {
+    background-color:  #edf2f7
+}
+.dropdown-heading-value {
+    background-color: #edf2f7;
+    color: black;
+}
+
+
+.textarea-container textarea:focus {
+  border-color: #9C8712; /* Change border color when focused */
+  outline: none; /* Remove default focus outline */
+}
+
+.input-container input:focus {
+  border-color: #9C8712; /* Change border color when focused */
+  outline: none; /* Remove default focus outline */
+}
